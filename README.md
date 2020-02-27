@@ -21,6 +21,14 @@ socketio-chat
 **CREATE index.html and UPDATE index.js AS DESCRIBED** 
 
 **INSTALL Socket.IO**  
+    npm install socket.io  
+    ...dependencies automatically added to package.json  
+    ...update files  
+    ...works  
+    ...tutorial completed to "a user connected"...
+
+
+
 
 
 
