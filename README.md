@@ -44,3 +44,7 @@ socketio-chat
 ---
 
 **CONNECT TO THE CHAT USING A PYTHON SCRIPT**
+
+    pip install "python-socketio[client]"
+    add following line to .vscode/settings.json:
+    "python.pythonPath": "/usr/bin/python",
