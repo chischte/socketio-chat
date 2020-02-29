@@ -37,4 +37,10 @@ socketio-chat
 
 **CHAPTER BROADCASTING**
 
-**USE "broadcast.emit" TO NOT SEND TO THE EMITTING SOCKET**
+**USED "socket.broadcast.emit" instead of "io.emit" TO NOT SEND TO THE EMITTING SOCKET**
+
+**TUTORIAL SUCCESSFULLY COMPLETED !**
+
+---
+
+**CONNECT TO THE CHAT USING A PYTHON SCRIPT**
