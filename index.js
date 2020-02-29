@@ -13,6 +13,8 @@ io.on("connection", function(socket) {
   });
   socket.on("chat message", function(msg) {
     console.log("message: " + msg);
+    socket.broadcast.emit("chat message", msg);
+    // use io.emit instead of socket.broadcast to send to all sockets
   });
 });
 

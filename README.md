@@ -34,3 +34,7 @@ socketio-chat
  ...tutorial completed to "a user connected"...
 
 **CHAPTER EMITTING EVENTS COMPLETED**
+
+**CHAPTER BROADCASTING**
+
+**USE "broadcast.emit" TO NOT SEND TO THE EMITTING SOCKET**
