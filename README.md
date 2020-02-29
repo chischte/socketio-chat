@@ -48,3 +48,6 @@ socketio-chat
     pip install "python-socketio[client]"
     add following line to .vscode/settings.json:
     "python.pythonPath": "/usr/bin/python",
+
+**NOT WORKING:**
+    ESTABLISH CONNECTION TO THE CHAT FROM ANOTHER WEBPAGE DID NOT WORK !!!
